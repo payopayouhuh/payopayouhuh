@@ -1,5 +1,7 @@
 ## 👋 Hi, I’m @payopayouhuh
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=payopayouhuh)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Programming Experience
 - **Python**: 4 years of experience, focusing on multi-objective optimization research in NEAT (NeuroEvolution of Augmenting Topologies) during my graduate studies.
 - **C++**: 1 year of experience, used for developing simulations in reinforcement learning research.
