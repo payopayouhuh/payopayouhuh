@@ -8,7 +8,6 @@
 
 ## Academic and Professional Development
 - Deepened my practical knowledge in data analysis and database design through the Data Science Course (GCI) hosted by Matsuo Lab at the University of Tokyo, including business reform proposals using actual corporate data.
-- Gained extensive experience in team management, project scheduling, and clarifying product vision, enhancing both my programming and soft skills.
 
 ## Internships and Work Experience
 - Engaged in multiple internships learning the IT solution provision process and contributed to the development of factory production management software.
