@@ -11,7 +11,8 @@
 ![スクリーンショッ6](https://github.com/payopayouhuh/payopayouhuh/assets/134220954/705ecc84-7359-475e-b36e-3d2a3845c106)
 
 <p align="center">
-  <img src="https://github.com/payopayouhuh/payopayouhuh/assets/134220954/53090af8-6a3d-451b-9cb7-d8f62a748d61" alt="altテキスト" width="指定したい幅(例: 400px)">
+  <img src="https://github.com/payopayouhuh/payopayouhuh/assets/134220954/53090af8-6a3d-451b-9cb7-d8f62a748d61" alt="altテキスト" width="指定したい幅(例: 200px)">
+  <img src="https://github.com/payopayouhuh/payopayouhuh/assets/134220954/53090af8-6a3d-451b-9cb7-d8f62a748d61" alt="altテキスト" width="指定したい幅(例: 200px)">
 </p>
 
 
