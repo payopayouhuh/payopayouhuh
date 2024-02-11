@@ -10,15 +10,7 @@
 - Deepened my practical knowledge in data analysis and database design through the Data Science Course (GCI) hosted by Matsuo Lab at the University of Tokyo, including business reform proposals using actual corporate data.
 
 ### Internships and Work Experience
-- Engaged in multiple internships learning the IT solution provision process and contributed to the development of factory production management software.
-- NTT Advanced Technology
-- TIS Corporation
-- NTT Docomo
-- IBM Japan
-- American Museum of Natural History, Computer Visualization Group
-- Recruit
-- Nomura Research Institute
-- DigitWorks Co., Ltd.
+- Engaged in multiple internships learning the IT solution provision process(NTT Advanced Technology,TIS Corporation,NTT Docomo,IBM Japan,American Museum of Natural History Computer Visualization Group,Recruit ,Nomura Research Institute) and contributed to the development of factory production management software(DigitWorks Co., Ltd).
 
 
 ### Cloud Experience
