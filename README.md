@@ -1,6 +1,5 @@
 ## 👋 Hi, I’m @payopayouhuh
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=payopayouhuh)](https://github.com/anuraghazra/github-readme-stats)
 <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payopayouhuh&layout=compact&show_icons=true&theme=prussian" />&nbsp;&nbsp;
 ### Programming Experience
 - **Python**: 4 years of experience, focusing on multi-objective optimization research in NEAT (NeuroEvolution of Augmenting Topologies) during my graduate studies.
