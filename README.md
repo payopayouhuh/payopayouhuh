@@ -11,7 +11,7 @@
 ![スクリーンショッ6](https://github.com/payopayouhuh/payopayouhuh/assets/134220954/705ecc84-7359-475e-b36e-3d2a3845c106)
 
 <div style="display: flex; justify-content: center;">
-  <div style="margin-right: 10px;">
+  <div>
     <img src="https://github.com/payopayouhuh/payopayouhuh/raw/main/assets/134220954/53090af8-6a3d-451b-9cb7-d8f62a748d61.jpg" alt="altテキスト" width="200">
   </div>
   <div>
