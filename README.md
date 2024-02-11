@@ -2,23 +2,7 @@
 
 <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payopayouhuh&layout=compact&show_icons=true&theme=prussian" />&nbsp;&nbsp;
 
-### 言語系
-
-<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
-<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
-<img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
-<img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
-
-### ライブラリ・フレームワーク
-
-<img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat">
-<img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
-
-### クラウド・他
-
-<img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat">
-<img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
+<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat"><img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat"><img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat"><img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat"><img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat"><img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat"><img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat"><img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat"><img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
 
 
 ### Programming Experience
