@@ -8,6 +8,9 @@
 - ⚡ Fun fact: ...
 
 ## My Reserch
+
+Combining NEAT (NeuroEvolution of Augmenting Topologies) with NSGA-II (Non-dominated Sorting Genetic Algorithm II) creates an efficient method for evolving neural networks that optimally balance multiple objectives, such as performance and complexity. NEAT's ability to dynamically evolve network structures is paired with NSGA-II's capability to handle multiple optimization goals simultaneously, leading to a set of diverse, high-quality solutions on the Pareto front. This hybrid approach is especially useful in applications requiring trade-offs between competing objectives, offering a range of optimal solutions for different needs.
+
 <img src="https://github.com/payopayouhuh/payopayouhuh/assets/134220954/aad619a6-a293-4d07-9fa1-bf0267906ea5" width="200" height="120"><img src="https://github.com/payopayouhuh/payopayouhuh/assets/134220954/8e1010eb-0940-4633-82d5-9718ba0957b9" width="200" height="120">
 
 ## My Product
