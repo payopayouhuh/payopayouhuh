@@ -4,6 +4,7 @@
 
 <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat"><img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat"><img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat"><img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat"><img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat"><img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat"><img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat"><img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat"><img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
 
+![image](https://github.com/payopayouhuh/payopayouhuh/assets/134220954/49383c5f-a37a-4b0f-8251-2cd50e398641)
 
 ### Programming Experience
 - **Python**: 4 years of experience, focusing on multi-objective optimization research in NEAT (NeuroEvolution of Augmenting Topologies) during my graduate studies.
@@ -25,7 +26,7 @@
 
 Combining NEAT (NeuroEvolution of Augmenting Topologies) with NSGA-II (Non-dominated Sorting Genetic Algorithm II) creates an efficient method for evolving neural networks that optimally balance multiple objectives, such as performance and complexity. NEAT's ability to dynamically evolve network structures is paired with NSGA-II's capability to handle multiple optimization goals simultaneously, leading to a set of diverse, high-quality solutions on the Pareto front. This hybrid approach is especially useful in applications requiring trade-offs between competing objectives, offering a range of optimal solutions for different needs.
 
-<img src="https://github.com/payopayouhuh/payopayouhuh/assets/134220954/aad619a6-a293-4d07-9fa1-bf0267906ea5" width="150" height="90">　<img src="https://github.com/payopayouhuh/payopayouhuh/assets/134220954/8e1010eb-0940-4633-82d5-9718ba0957b9" width="150" height="90">　<img src="https://github.com/payopayouhuh/payopayouhuh/assets/134220954/134220954/f71f50ea-ceb8-4dad-b543-2639b38a79c4" width="150" height="90">
+<img src="https://github.com/payopayouhuh/payopayouhuh/assets/134220954/aad619a6-a293-4d07-9fa1-bf0267906ea5" width="150" height="90">　<img src="https://github.com/payopayouhuh/payopayouhuh/assets/134220954/8e1010eb-0940-4633-82d5-9718ba0957b9" width="150" height="90">　<img src="https://github.com/payopayouhuh/payopayouhuh/assets/134220954/49383c5f-a37a-4b0f-8251-2cd50e398641" width="150" height="90">
 
 
 ### My Products
