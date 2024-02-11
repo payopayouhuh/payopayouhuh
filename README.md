@@ -6,3 +6,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![スクリーンショット 2024-02-11 140148](https://github.com/payopayouhuh/payopayouhuh/assets/134220954/53090af8-6a3d-451b-9cb7-d8f62a748d61)
+![スクリーンショッ6](https://github.com/payopayouhuh/payopayouhuh/assets/134220954/705ecc84-7359-475e-b36e-3d2a3845c106)
+
+
+
+https://github.com/payopayouhuh/payopayouhuh/assets/134220954/ffbec209-1179-4ab7-9c7c-796089ccd6f5
+
