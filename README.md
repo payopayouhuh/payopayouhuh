@@ -1,11 +1,20 @@
 # 👋 Hi, I’m @payopayouhuh
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Programming Experience
+- **Python**: 4 years of experience, focusing on multi-objective optimization research in NEAT (NeuroEvolution of Augmenting Topologies) during my graduate studies.
+- **C++**: 1 year of experience, used for developing simulations in reinforcement learning research.
+- **C# and XAML**: Experience in developing Windows applications as a part-time job.
+- **Frontend Development**: Participated in several projects using React, JavaScript, CSS, HTML, and Next.js. Rich experience in hackathons, notably developing a web application for visualizing Chrome history, emphasizing interactive user experiences.
+
+## Academic and Professional Development
+- Deepened my practical knowledge in data analysis and database design through the Data Science Course (GCI) hosted by Matsuo Lab at the University of Tokyo, including business reform proposals using actual corporate data.
+- Gained extensive experience in team management, project scheduling, and clarifying product vision, enhancing both my programming and soft skills.
+
+## Internships and Work Experience
+- Engaged in multiple internships learning the IT solution provision process and contributed to the development of factory production management software.
+
+## Cloud Experience
+- **AWS**: Deployed a web application with a microservices architecture on AWS using Docker Compose during a hackathon. Managed multiple containers (API, database, frontend, etc.) collectively, facilitating efficient launch and shutdown processes.
 
 ## My Reserch
 
