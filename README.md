@@ -11,6 +11,15 @@
 
 ### Internships and Work Experience
 - Engaged in multiple internships learning the IT solution provision process and contributed to the development of factory production management software.
+- NTT Advanced Technology
+- TIS Corporation
+- NTT Docomo
+- IBM Japan
+- American Museum of Natural History, Computer Visualization Group
+- Recruit
+- Nomura Research Institute
+- DigitWorks Co., Ltd.
+
 
 ### Cloud Experience
 - **AWS**: Deployed a web application with a microservices architecture on AWS using Docker Compose during a hackathon. Managed multiple containers (API, database, frontend, etc.) collectively, facilitating efficient launch and shutdown processes.
