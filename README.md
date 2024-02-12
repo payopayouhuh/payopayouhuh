@@ -7,7 +7,7 @@
 ### Programming Experience
 - **Python**: 4 years of experience, focusing on multi-objective optimization research in NEAT (NeuroEvolution of Augmenting Topologies) during my graduate studies.
 - **C++**: 1 year of experience, used for developing simulations in reinforcement learning research.
-- **C# and XAML**: Experience in developing Windows applications as a part-time job.
+- **C# and XAML**: Experience in developing Windows applications(MVVM) as a part-time job.
 - **Frontend**: Participated in several projects using React, JavaScript, CSS, HTML, and Next.js. Rich experience in hackathons, notably developing a web application for visualizing Chrome history, emphasizing interactive user experiences.
 
 ### Academic and Professional Development
