@@ -18,7 +18,7 @@
 
 
 ### Cloud Experience
-- **AWS**: Deployed a web application with a microservices architecture on AWS using Docker Compose during a hackathon. Managed multiple containers (API, database, frontend, etc.) collectively, facilitating efficient launch and shutdown processes.
+- **AWS(Cloudfront,S3,API Gateway,lambda)**: Deployed a web application with a microservices architecture on AWS using Docker Compose during a hackathon. Managed multiple containers (API, database, frontend, etc.) collectively, facilitating efficient launch and shutdown processes.
 
 ### My Reserch
 
