@@ -5,8 +5,8 @@
 <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat"><img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat"><img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat"><img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat"><img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat"><img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat"><img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat"><img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat"><img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
 
 ### Programming Experience
-- **Python**: 4 years of experience, focusing on multi-objective optimization research in NEAT (NeuroEvolution of Augmenting Topologies) during my graduate studies.
-- **C++**: 1 year of experience, used for developing simulations in reinforcement learning research.
+- **Python**: 5 years of experience, focusing on multi-objective optimization research in NEAT (NeuroEvolution of Augmenting Topologies) during my graduate studies.
+- **C++**: 2 year of experience, used for developing simulations in reinforcement learning research.
 - **C# and XAML**: Experience in developing Windows applications(MVVM) as a part-time job.
 - **Frontend**: Participated in several projects using React, JavaScript, CSS, HTML, and Next.js. Rich experience in hackathons, notably developing a web application for visualizing Chrome history, emphasizing interactive user experiences.
 
